@@ -1,6 +1,3 @@
-[submodule "mlcd"]
-	path = mlcd
-	url = https://github.com/prashantMohta/mlcd
 [submodule "nre-darwin-py"]
 	path = nre-darwin-py
 	url = https://github.com/robert-b-clarke/nre-darwin-py
