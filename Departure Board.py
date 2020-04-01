@@ -4,8 +4,8 @@ import time
 import datetime
 import urllib
 import re
+import nredarwin 
 from nredarwin.webservice import DarwinLdbSession
-import nredarwin
 import json
 import requests
 
