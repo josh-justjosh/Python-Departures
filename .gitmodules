@@ -4,3 +4,6 @@
 [submodule "nre-darwin-py"]
 	path = nre-darwin-py
 	url = https://github.com/robert-b-clarke/nre-darwin-py
+[submodule "pygame"]
+	path = pygame
+	url = https://github.com/pygame/pygame
